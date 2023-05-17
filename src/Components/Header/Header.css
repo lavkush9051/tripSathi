@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+        /* justify-content: center; */
+        align-items: center;
+}
+
+.items{
+    display: inline;
+    word-spacing: 10px;
+    color: white;
+    font-size: larger;
+    justify-content: space-between;
+    margin-left: 45px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    
+}
+
+.logo-sz{
+    height: 72px;
+    width: 167px;
+    /* background-color: blue; */
+}

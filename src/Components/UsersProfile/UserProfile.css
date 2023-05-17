@@ -1,0 +1,61 @@
+.userprf-body{
+    background-color: #df4141;
+    height: 100vh;
+}
+.user-box{
+    box-sizing: border-box;
+    /* position: absolute;
+    width: 500px;
+    height: 320px;
+    left: 473px;
+    top: 150px; */
+    margin: auto;
+    margin-top: 20px;
+    position:relative;
+    display: block;
+    width:400px;
+    text-align:center;
+    padding-bottom: 30px;
+    justify-content: center;
+    
+    
+    background: rgba(242, 226, 45, 0.856);
+    border: 1px solid rgba(255, 255, 255, 0.26);
+    box-shadow: 0px 115px 65px -40px rgba(0, 0, 0, 0.17);
+    backdrop-filter: blur(10px);
+    /* Note: backdrop-filter has minimal browser support */
+    opacity: 0.9;
+    border-radius: 10px;
+    
+    }
+    .box-element{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .box:hover{
+        opacity: 1;
+    }
+
+    .img-btn{
+        background-color: #3f2208c2;
+        border: none;
+        height:200px;
+        width: 200px;
+        color: white;
+        border-radius: 50%;
+        text-align: center;
+        text-decoration:none;
+        display: inline-block;
+        font-size: 26px;
+        margin: auto;
+        margin-top: 60px;
+        justify-content: center;
+        display: block;
+        position:relative;
+        background-image: url(../../media/download.jpeg);    
+    }
+
+.para{
+    text-align: left;
+    margin-left: 15px;
+}

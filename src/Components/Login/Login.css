@@ -1,0 +1,19 @@
+.bg{
+    min-height: 500px;
+  
+    background-image: url(../../media/camel_desert.jpg);
+    background-repeat: "no-repeat";
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+  }
+
+  .name{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+  }
