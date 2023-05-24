@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+}
+
+.home-bg{
+
+    background-image: url(../../media/camel_desert.jpg);
+    background-repeat: "no-repeat";
+    background-size: cover;
+    height: 100rem;
+    width: 100%;
+    position: fixed;
+
+  }
